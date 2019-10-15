@@ -1,0 +1,38 @@
+h1 {
+  color:pink;
+}
+
+h2 {
+  color:lavender;
+}
+
+p {
+  color:lightblue;
+}
+
+li {
+  color:gold;
+}
+
+a {
+  color:pink;
+}
+
+body {
+  font-family: 'Vibes', cursive;
+  font-family: 'Fredoka One', cursive;
+  background-color:hotpink;
+}
+
+h1 {
+  border:10px dotted pink
+}
+
+img{
+  border-radius: 150px; 
+  width: 200px;
+}
+  
+  
+
+
